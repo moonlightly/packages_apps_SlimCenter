@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ * Copyright (C) 2012 Slimroms
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *      http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+-->
+
+<resources>
+    <!-- SlimOTA main strings -->
+    <string name="app_name">Slim中心</string>
+    <string name="menu_settings">設置</string>
+    <string name="device_title">設備</string>
+    <string name="device_name_title">名稱:</string>
+    <string name="codename_title">代碼名:</string>
+    <string name="version_title">版本:</string>
+    <string name="file_name_title">文件:</string>
+    <string name="curVer">當前版本</string>
+    <string name="ok">確認</string>
+    <string name="title_update">更新</string>
+    <string name="device_info_title">設備信息</string>
+    <string name="up_to_date_title">你的系統是最新的</string>
+    <string name="no_data_title">沒有可用的數據鏈接</string>
+    <string name="error_reading_title">不能讀取 SlimOTA 屬性</string>
+    <string name="update_file_title">更新:</string>
+
+    <!-- SlimOTA settings -->
+    <string name="settings_title">SlimOTA 設置</string>
+    <string name="about_title">關於</string>
+    <string name="update_interval_title">檢查更新間隔</string>
+    <string name="update_interval_summary">設置自動檢查更新的間隔</string>
+    <string name="update_interval_day">每24小時</string>
+    <string name="update_interval_half_day">每12小時</string>
+    <string name="update_interval_hour">每小時</string>
+    <string name="update_interval_disable">禁用</string>
+
+    <!-- SlimOTA error messages -->
+    <string name="system_prop_error">不能讀取系統屬性</string>
+    <string name="bad_url">"無法連接到下載中心.
+請通知你的設備維護者!"</string>
+    <string name="menu_update">現在檢查更新</string>
+    <string name="toast_text">正在檢查更新...</string>
+    <string name="toast_no_data_text">沒有數據連接，請打開</string>
+
+    <!-- SlimOTA shortcut fragment -->
+    <string name="short_cut_release_title">ROM 相關</string>
+    <string name="short_cut_changelog_title">更新日誌</string>
+    <string name="short_cut_changelog_summary_update_available">重要!!! 仔細閱讀更新日誌</string>
+    <string name="short_cut_download_summary_update_available">新的SlimBean ROM可以下載. 現在下載!</string>
+    <string name="short_cut_changelog_summary">顯示更新日誌和安裝說明</string>
+    <string name="short_cut_additional_title">附加</string>
+    <string name="short_cut_faq_title">FAQ</string>
+    <string name="short_cut_faq_summary">顯示 Slim FAQ</string>
+    <string name="short_cut_news_title">新聞</string>
+    <string name="short_cut_news_summary">閱讀最新Slim新聞</string>
+    <string name="short_cut_download_title">下載 SlimBean</string>
+    <string name="short_cut_download_uptodate_summary">下載 SlimBean ROM</string>
+    <string name="short_cut_download_gapps_title">下載谷歌服務包</string>
+    <string name="short_cut_download_gapps_summary">下載 SlimBean 附加包</string>
+
+    <string name="download_url">http://otaslim.slimroms.net/download.htm</string>
+    <string name="changelog_url">http://otaslim.slimroms.net/changelog.htm</string>
+    <string name="faq_url">http://otaslim.slimroms.net/faq.htm</string>
+    <string name="news_url">http://otaslim.slimroms.net/news.htm</string>
+    <string name="gapps_url">http://otaslim.slimroms.net/gapps.htm</string>
+
+    <!-- SlimOTA update checker -->
+    <string name="xml_url">http://otaslim.slimroms.net/ota.xml</string>
+    <string name="notification_message">SlimBean ROM 更新可用</string>
+
+    <!-- SlimOTA About -->
+    <string name="about_home_url"><a href="http://www.slimroms.net">www.slimroms.net</a></string>
+    <string name="about_slim_ota">"Slim中心讓您輕松管理
+ 你的 ROM!"</string>
+    <string name="about_copyright">© Copyright Slimroms 2013</string>
+    <string name="about_version">Slim中心 1.1</string>
+    <string name="about_contact"><a href="http://otaslim.slimroms.net/contact.htm">聯系我們</a></string>
+    <string name="about_contact_text">"告訴我們你在想什麽
+或者報告一個BUG或問題"</string>
+    <string name="about_license">開源協議</string>
+    <string name="about_license_text">Slim中心應用:</string>
+    <string name="about_license_url"><a href="http://otaslim.slimroms.net/license.htm">gpl(2)</a></string>
+    <string name="menu_slimsizer">SlimSizer</string>
+
+    <!-- SlimSizer  -->
+    <string name="listsystem">list</string>
+    <string name="sizer_title">SlimSizer</string>
+    <string name="caution">註意!</string>
+    <string name="sizer_message_startup">此工具允許你刪除系統應用.請小心使用並只刪除你確認可以安全刪除的應用.</string>
+    <string name="cancel">取消</string>
+    <string name="sizer_message_delete">你確定要刪除此應用嗎?</string>
+    <string name="sizer_message_delete_multi_one">你確定要刪除選定的應用嗎?</string>
+    <string name="sizer_message_delete_multi">你確定要刪除選定的應用嗎?</string>
+    <string name="btn_delete">立即刪除選定的應用!</string>
+    <string name="delete_progress_title">正在刪除</string>
+    <string name="delete_progress">選定的文件正在被刪除...</string>
+    <string name="delete_success">已刪除</string>
+    <string name="delete_fail">無法刪除</string>
+    <string name="btn_profile">配置文件</string>
+    <string name="sizer_message_sdnowrite">無法寫入SD卡.</string>
+    <string name="sizer_message_sdnoread">無法讀取SD卡.</string>
+    <string name="sizer_message_filesuccess">配置文件已創建.</string>
+    <string name="sizer_message_filefail">配置文件創建失敗.</string>
+    <string name="sizer_message_noselect">未選擇任何項目.</string>
+    <string name="ota_title">SlimOTA</string>
+
+    <!-- About -->
+    <string name="aboutslim_title">SlimRoms</string>
+    <string name="devs">開發者</string>
+    <string name="slim_website_title">Slim 網站</string>
+    <string name="slim_website_summary">"www.slimroms.net
+查看Slim最新新聞"</string>
+    <string name="slim_irc_title">SlimIRC</string>
+    <string name="slim_irc_summary">"加入我們的 IRC 頻道!
+和Slim Team以及其他用戶聊天"</string>
+    <string name="slim_donate_title">捐贈</string>
+    <string name="slim_donate_summary">捐贈給SlimRoms團隊</string>
+    <string name="slim_source_title">Slim 源代碼</string>
+    <string name="slim_source_summary">"SlimRoms 完全開源.
+源碼托管於 github.com/SlimRoms"</string>
+    <string name="no_irc">未找到SlimIRC應用.</string>
+    <string name="center_summary"><b>Slim中心</b> 提供工具 &amp; 信息來讓你對SlimRoms的體驗更好.使用 <b>SlimOTA</b>可以自動升級我們的ROM至最新版本 ，使用 <b>SlimSizer</b>可以刪除不需要的系統應用</string>
+    <string name="slim_bugreport">bug報告</string>
+    <string name="slim_bugreport_summary">創建一個完整的bug報告。</string>
+    <string name="report_infosuccess">創建系統報告, 它通過獲取您的報告提供給SlimRoms團隊! 您會發現在您的SD卡上在文件夾 \"Slim\" 內的的 Zip文件.</string>
+    <string name="report_infofail">創建Bug報告失敗, 請重試.</string>
+</resources>
