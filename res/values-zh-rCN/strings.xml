@@ -55,17 +55,17 @@
     <string name="short_cut_release_title">ROM 相关</string>
     <string name="short_cut_changelog_title">更新日志</string>
     <string name="short_cut_changelog_summary_update_available">重要!!! 仔细阅读更新日志</string>
-    <string name="short_cut_download_summary_update_available">新的SlimBean ROM可以下载. 现在下载!</string>
+    <string name="short_cut_download_summary_update_available">新的SlimKat ROM可以下载. 现在下载!</string>
     <string name="short_cut_changelog_summary">显示更新日志和安装说明</string>
     <string name="short_cut_additional_title">附加</string>
     <string name="short_cut_faq_title">FAQ</string>
     <string name="short_cut_faq_summary">显示 Slim FAQ</string>
     <string name="short_cut_news_title">新闻</string>
     <string name="short_cut_news_summary">阅读最新Slim新闻</string>
-    <string name="short_cut_download_title">下载 SlimBean</string>
-    <string name="short_cut_download_uptodate_summary">下载 SlimBean ROM</string>
+    <string name="short_cut_download_title">下载 SlimKat</string>
+    <string name="short_cut_download_uptodate_summary">下载 SlimKat ROM</string>
     <string name="short_cut_download_gapps_title">下载谷歌服务包</string>
-    <string name="short_cut_download_gapps_summary">下载 SlimBean 附加包</string>
+    <string name="short_cut_download_gapps_summary">下载 SlimKat 附加包</string>
 
     <string name="download_url">http://otaslim.slimroms.net/download.htm</string>
     <string name="changelog_url">http://otaslim.slimroms.net/changelog.htm</string>
@@ -75,7 +75,7 @@
 
     <!-- SlimOTA update checker -->
     <string name="xml_url">http://otaslim.slimroms.net/ota.xml</string>
-    <string name="notification_message">SlimBean ROM 更新可用</string>
+    <string name="notification_message">SlimKat ROM 更新可用</string>
 
     <!-- SlimOTA About -->
     <string name="about_home_url"><a href="http://www.slimroms.net">www.slimroms.net</a></string>
