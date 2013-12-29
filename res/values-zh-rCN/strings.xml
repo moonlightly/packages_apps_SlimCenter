@@ -32,7 +32,10 @@
     <string name="no_data_title">没有可用的数据链接</string>
     <string name="error_reading_title">不能读取 SlimOTA 属性</string>
     <string name="update_file_title">更新:</string>
-
+    <string name="ota_title">SlimOTA</string>
+    <string name="reboot">全部完成！现在重新启动您的设备</string>
+    <string name="reboot_ok">立即重新启动</string>
+    <string name="reboot_cancel">不重启</string>
     <!-- SlimOTA settings -->
     <string name="settings_title">SlimOTA 设置</string>
     <string name="about_title">关于</string>
@@ -113,7 +116,6 @@
     <string name="sizer_message_filesuccess">配置文件已创建.</string>
     <string name="sizer_message_filefail">配置文件创建失败.</string>
     <string name="sizer_message_noselect">未选择任何项目.</string>
-    <string name="ota_title">SlimOTA</string>
 
     <!-- About -->
     <string name="aboutslim_title">SlimRoms</string>
@@ -135,4 +137,5 @@
     <string name="slim_bugreport_summary">创建一个完整的bug报告。</string>
     <string name="report_infosuccess">创建系统报告, 它通过获取您的报告提供给SlimRoms团队! 您会发现在您的SD卡上在文件夹 \"Slim\" 内的的 Zip文件.</string>
     <string name="report_infofail">创建Bug报告失败, 请重试.</string>
+
 </resources>
