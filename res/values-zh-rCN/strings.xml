@@ -36,6 +36,7 @@
     <string name="reboot">全部完成！现在重新启动您的设备</string>
     <string name="reboot_ok">立即重新启动</string>
     <string name="reboot_cancel">不重启</string>
+
     <!-- SlimOTA settings -->
     <string name="settings_title">SlimOTA 设置</string>
     <string name="about_title">关于</string>
@@ -132,6 +133,7 @@
     <string name="slim_source_summary">"SlimRoms 完全开源.
 源码托管于 github.com/SlimRoms"</string>
     <string name="no_irc">未找到SlimIRC应用.</string>
+    <string name="no_irc_unofficial">SlimIRC不提供非官方的版本.</string>
     <string name="center_summary"><b>Slim中心</b> 提供工具 &amp; 信息来让你对SlimRoms的体验更好.使用 <b>SlimOTA</b>可以自动升级我们的ROM至最新版本 ，使用 <b>SlimSizer</b>可以删除不需要的系统应用</string>
     <string name="slim_bugreport">bug报告</string>
     <string name="slim_bugreport_summary">创建一个完整的bug报告。</string>
